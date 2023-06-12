@@ -1,0 +1,10 @@
+type : MySQL
+nombase : fleur
+host : localhost
+user : admin
+pass : admin
+port : 3306
+
+
+
+
